@@ -1,0 +1,9 @@
+{
+  "name": "zh-ui-helper",
+  "version": "0.1.0",
+  "description": "Local Chinese labels and an optional glossary pane for supported Claude Code UI render sites.",
+  "author": { "name": "Community" },
+  "license": "MIT",
+  "homepage": "https://github.com/joyfoxai/zh-ui-helper",
+  "repository": "https://github.com/joyfoxai/zh-ui-helper"
+}

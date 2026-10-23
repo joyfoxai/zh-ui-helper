@@ -1,0 +1,29 @@
+{
+  "translationBaselineVersion": "3.6556.2",
+  "purpose": "Translation baseline coverage; installation checks the detected resource structure.",
+  "frontendKeys": 37201,
+  "missingFrontendKeys": 0,
+  "parseFailures": 0,
+  "argumentOrTagMismatches": 0,
+  "sources": {
+    "javaht-MIT": 30803,
+    "new-translation": 5954,
+    "exact-source-reuse": 367,
+    "reviewed": 77
+  },
+  "valuesContainingChinese": 36694,
+  "properNamesAndCodeReviewedSeparately": 507,
+  "dynamicKeys": 49,
+  "nativeKeys": 872,
+  "sha256": "b0dabbaad0c41f54f280c8b27518b4b30cfe67abf64155cec8b08d55ff977c7a",
+  "packageVersion": "0.3.0-preview.1",
+  "installation": "Independent MSIX modification package; resources only; official app identity and service retained.",
+  "compatibility": {
+    "baseVersionAllowlist": false,
+    "architecture": "x64",
+    "officialMsixRequired": true,
+    "resourceStructureChecked": true,
+    "sourceFingerprintsRequired": true,
+    "onOfficialUpdate": "Rebuild and reapply for the new installed package path."
+  }
+}

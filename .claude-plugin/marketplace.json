@@ -1,0 +1,14 @@
+{
+  "name": "zh-ui-local",
+  "description": "Code 局部中文界面助手的插件市场",
+  "owner": {
+    "name": "joyfoxai"
+  },
+  "plugins": [
+    {
+      "name": "zh-ui-helper",
+      "source": "./plugins/zh-ui-helper",
+      "description": "为 Claude Code 支持的会话界面组件提供局部中文显示与中文操作词表"
+    }
+  ]
+}
